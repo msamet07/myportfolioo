@@ -3,36 +3,38 @@ import { TypeMyData, TypeNavbar } from "./Models";
 import Youtube from "../assets/shoppingcard.png";
 import MovieApp from "../assets/reduxfilmler.png"
 import Portfolio from "../assets/pizza.png"
+import Twitter from "../assets/porfolio.png"
 
 export const data: TypeMyData[] = [
   {
     id: 1,
+    title: "TS - MyPortfolio",
+    img_url: `${Twitter}`,
+    link: "https://myportfolioo-seven.vercel.app/",
+    gitHub: "https://github.com/msamet07/myportfolioo",
+  },
+  {
+    id: 2,
     title: "React Pizza",
     img_url: `${Portfolio}`,
     link: "https://effervescent-beijinho-073b66.netlify.app/",
     gitHub: "https://github.com/msamet07/s7pizza",
   },
   {
-    id: 2,
+    id: 3,
     title: "Redux Favori Filmler",
     img_url: `${MovieApp}`,
     link: "https://meek-cactus-586a90.netlify.app/movies",
     gitHub: "https://github.com/msamet07/filmler",
   },
   {
-    id: 3,
+    id: 4,
     title: "React - ShoppingCard",
     img_url: `${Youtube}`,
     link: "https://shopping-card-ym6x.vercel.app/",
     gitHub: "https://github.com/msamet07/shopping-card",
   },
-//   {
-//     id: 4,
-//     title: "React - X(Twitter) Clone",
-//     img_url: `${Twitter}`,
-//     link: "https://splendid-shortbread-0a50a4.netlify.app/auth.html",
-//     gitHub: "https://github.com/hilaldeniz1/twitter-clone",
-//   },
+ 
 //   {
 //     id: 5,
 //     title: "React - Spotify Clone",
