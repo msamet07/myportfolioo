@@ -19,4 +19,4 @@ React + TS with my portfolio web site
 
 ### 'Screen'
 
-![](portfolio.gif)
+
