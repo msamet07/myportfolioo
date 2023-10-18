@@ -4,6 +4,7 @@ import Youtube from "../assets/shoppingcard.png";
 import MovieApp from "../assets/reduxfilmler.png"
 import Portfolio from "../assets/pizza.png"
 import Twitter from "../assets/porfolio.png"
+import Spotify from '../assets/spotify.png'
 
 export const data: TypeMyData[] = [
   {
@@ -35,48 +36,48 @@ export const data: TypeMyData[] = [
     gitHub: "https://github.com/msamet07/shopping-card",
   },
  
-//   {
-//     id: 5,
-//     title: "React - Spotify Clone",
-//     img_url: `${Spotify}`,
-//     link: "https://funny-biscochitos-75c85c.netlify.app/",
-//     gitHub: "https://github.com/hilaldeniz1/spotify-clone",
-//   },
+  {
+    id: 5,
+    title: "React - Redux Uyg.",
+    img_url: `${Spotify}`,
+    link: "https://react-redux-tailwind.vercel.app/",
+    gitHub: "https://github.com/msamet07/ReactReduxTailwind",
+  },
 //   {
 //     id: 6,
 //     title: "JS - Gmail Clone",
 //     img_url: `${Gmail}`,
-//     link: "https://gmail-clonnee.netlify.app/",
-//     gitHub: "https://github.com/hilaldeniz1/gmail-clone",
+//     link: "https://g",
+//     gitHub: "https://githu",
 //   },
 
 //   {
 //     id: 7,
 //     title: "JS - Recipe APP",
 //     img_url: `${Recipe}`,
-//     link: "https://luminous-longma-3a91ac.netlify.app/",
-//     gitHub: "https://github.com/hilaldeniz1/food-app",
+//     link: "https://lu",
+//     gitHub: "https://git",
 //   },
 //   {
 //     id: 8,
 //     title: "JS | Map APP",
 //     img_url: `${MapApp}`,
-//     link: "https://amazing-daifuku-7da670.netlify.app//",
-//     gitHub: "https://github.com/hilaldeniz1/radar-toolkit",
+//     link: "https://ama",
+//     gitHub: "https://",
 //   },
 
 //   {
 //     id: 9,
 //     title: "React | NasaSpace APP",
 //     img_url: `${NasaSpace}`,
-//     link: "https://reactjs-nasa-app.netlify.app",
+//     link: "https://,
 //     gitHub: "",
 //   },
 //   {
 //     id: 10,
 //     title: "React | Recibe APP",
 //     img_url: `${RecibeApp}`,
-//     link: "https://reactjs-recibe-app.netlify.app",
+//     link: "http",
 //     gitHub: "",
 //   },
 ];
