@@ -1,7 +1,7 @@
 import { FC } from "react";
 import "./About.css";
 import Info from "./Info";
-import CV from "../assets/cveng.pdf";
+import CV from "../assets/cvengnew.pdf";
 import { Fade, Slide } from "react-awesome-reveal";
 
 const About: FC = () => {
