@@ -4,7 +4,7 @@ import Youtube from "../assets/shoppingcard.png";
 import MovieApp from "../assets/reduxfilmler.png"
 import Portfolio from "../assets/pizza.png"
 import Twitter from "../assets/porfolio.png"
-import Spotify from '../assets/spotify.png'
+import Spotify from "../assets/Spotify.png"
 
 export const data: TypeMyData[] = [
   {
