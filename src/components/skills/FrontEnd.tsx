@@ -111,14 +111,28 @@ const FrontEnd: React.FC = () => {
           <div className="skills__data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">Rest API </h3>
+              <h3 className="skills__name">Node Js</h3>
               <span className="skills__level">Intermediate</span>
             </div>
           </div>
           <div className="skills__data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">Python </h3>
+              <h3 className="skills__name">Next Js</h3>
+              <span className="skills__level">Elementary</span>
+            </div>
+            </div>
+            <div className="skills__data">
+            <i className="bx bx-badge-check"></i>
+            <div>
+              <h3 className="skills__name">Knex Js</h3>
+              <span className="skills__level">Elementary</span>
+            </div>
+            </div>
+            <div className="skills__data">
+            <i className="bx bx-badge-check"></i>
+            <div>
+              <h3 className="skills__name">Vue Js</h3>
               <span className="skills__level">Elementary</span>
             </div>
           </div>

@@ -1,10 +1,16 @@
 // This file contains the data for the projects and navbarbar items.
 import { TypeMyData, TypeNavbar } from "./Models";
 import Youtube from "../assets/shoppingcard.png";
-import MovieApp from "../assets/reduxfilmler.png"
-import Portfolio from "../assets/pizza.png"
-import Twitter from "../assets/porfolio.png"
-import Spotify from "../assets/Spotify.png"
+import MovieApp from "../assets/reduxfilmler.png";
+import Portfolio from "../assets/pizza.png";
+import Twitter from "../assets/porfolio.png";
+import Spotify from "../assets/Spotify.png";
+import Gmail from '../assets/Gmail.png';
+import Recipe from '../assets/Recipe.png';
+import MapApp from '../assets/MapApp.png';
+import NasaSpace from '../assets/NasaSpace.png';
+import RecibeApp from '../assets/RecibeApp.png';
+
 
 export const data: TypeMyData[] = [
   {
@@ -43,43 +49,41 @@ export const data: TypeMyData[] = [
     link: "https://react-redux-tailwind.vercel.app/",
     gitHub: "https://github.com/msamet07/ReactReduxTailwind",
   },
-//   {
-//     id: 6,
-//     title: "JS - Gmail Clone",
-//     img_url: `${Gmail}`,
-//     link: "https://g",
-//     gitHub: "https://githu",
-//   },
-
-//   {
-//     id: 7,
-//     title: "JS - Recipe APP",
-//     img_url: `${Recipe}`,
-//     link: "https://lu",
-//     gitHub: "https://git",
-//   },
-//   {
-//     id: 8,
-//     title: "JS | Map APP",
-//     img_url: `${MapApp}`,
-//     link: "https://ama",
-//     gitHub: "https://",
-//   },
-
-//   {
-//     id: 9,
-//     title: "React | NasaSpace APP",
-//     img_url: `${NasaSpace}`,
-//     link: "https://,
-//     gitHub: "",
-//   },
-//   {
-//     id: 10,
-//     title: "React | Recibe APP",
-//     img_url: `${RecibeApp}`,
-//     link: "http",
-//     gitHub: "",
-//   },
+  {
+   id: 6,
+    title: "MsBankingProject",
+    img_url: `${Gmail}`,
+    link: "https://github.com/msamet07/MsBankingProject",
+    gitHub: "https://github.com/msamet07/MsBankingProject",
+  },
+  {
+    id: 7,
+    title: ".NetCoreProject",
+    img_url: `${Recipe}`,
+     link: "https://github.com/msamet07/.NetCoreProject",
+    gitHub: "https://github.com/msamet07/.NetCoreProject",
+   },
+   {
+     id: 8,
+     title: "Fi TicketApi",
+     img_url: `${MapApp}`,
+     link: "https://github.com/msamet07/Fi.Ticket.Api",
+     gitHub: "https://github.com/msamet07/Fi.Ticket.Api",
+   },
+   {
+     id: 9,
+     title: "Fi WebProject",
+     img_url: `${NasaSpace}`,
+     link: "https://github.com/msamet07/Fi.Playground.Web",
+     gitHub: "https://github.com/msamet07/Fi.Playground.Web",
+   },
+   {
+     id: 10,
+     title: "ChatHub Anlık Mesajlaş!",
+     img_url: `${RecibeApp}`,
+     link: "https://github.com/msamet07/ChatHub",
+     gitHub: "https://github.com/msamet07/ChatHub",
+   },
 ];
 
 export const listNavBar: TypeNavbar[] = [
