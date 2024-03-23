@@ -23,11 +23,10 @@ const About: FC = () => {
             <Info />
             <Fade direction="right" triggerOnce>
               <p className="about__description">
-                A highly motivated frontend developer looking for a job in a
-                growing company, who loves Full-Stack development. Experience includes
-                developing web projects utilizing{" "}
+                A highly motivated Full-Stack developer looking for a job in a growing company, who loves Full-Stack development. Experience;{" "}
                 <span style={{ color: "red" }}>
-                  React (JS, TS), HTML5, CSS3, SCSS, Tailwind ,Node Js, Redux, Java, Python, Knex Js, C#, SQL , .NET, MySQL, OOP
+                JS, TS (React,Node Js, Next Js,Vue Js,Knex Js,Redux) HTML5, CSS3, SCSS, TailwindCss ,Python, C#, SQL , MySQL,SQLLite,MongoDB,.NetCore,EntityFramework,MicroServices,
+                RestApi,Redis,Docker 
                 </span>{" "}
                 and more. Excited to contribute to a team, continue learning,
                 and add value to answer business needs with technology.
